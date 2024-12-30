@@ -1,6 +1,7 @@
+![IT enthusiast & Frontend Developer](https://media.licdn.com/dms/image/v2/D5616AQFHExFRZm7G8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734275639755?e=1741219200&v=beta&t=_s9G0i9VxYGNwMpPJwEOcAB3uq58GALpUAop2JxnyfA)
+
 ### Hi there 👋, I'm Chayon Dhar
 #### IT enthusiast & Frontend Developer
-![IT enthusiast & Frontend Developer](https://media.licdn.com/dms/image/v2/D5616AQFHExFRZm7G8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734275639755?e=1741219200&v=beta&t=_s9G0i9VxYGNwMpPJwEOcAB3uq58GALpUAop2JxnyfA)
 
 Hello! I am Chayon Dhar, and I am on a mission to integrate creativity with technology. As a graduate in Computer Science and Engineering from Chittagong Independent University, I am passionate about front-end development, Data Science, IoT Technology, Artificial Intelligence, and Natural Language Processing (NLP). I thrive on challenges and am eager to contribute creatively and effectively to a dynamic team. My career objective is to leverage my skills in a role that promotes continuous growth and innovation.
 
